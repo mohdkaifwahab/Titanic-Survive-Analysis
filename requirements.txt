@@ -1,3 +1,6 @@
-pandas
-matplotlib
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+altair<5
